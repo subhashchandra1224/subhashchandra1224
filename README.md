@@ -1,6 +1,5 @@
 # Subhash Kundurthy
-<img src="profile.jpg" alt="Profile Image" width="150" align="right">
-**AI & Data Science | Machine Learning | Backend Development**
+
 
 ---
 
