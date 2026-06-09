@@ -1,4 +1,5 @@
 # Subhash Kundurthy
+<img src="profile.jpg" alt="Profile Image" width="150" align="right">
 **AI & Data Science | Machine Learning | Backend Development**
 
 ---
@@ -12,7 +13,7 @@ To leverage my solid understanding of AI, databases, and software development to
 ### Education
 * **B.Tech in Artificial Intelligence & Data Science** (2023 – Present)
   * Amrita Vishwa Vidyapeetam, Bengaluru
-  * CGPA: 7.62/10
+  * CGPA: 7.66/10
 
 ### Technical Skills
 * **Programming Languages:** Python (Proficient), Java (Intermediate), JavaScript, SQL
